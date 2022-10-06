@@ -18,6 +18,7 @@
   "homepage": "https://github.com/xuhpppp/CrawlTopUserBLT#readme",
   "dependencies": {
     "fs": "^0.0.1-security",
+    "mysql2": "^2.3.3",
     "puppeteer": "^18.2.0",
     "puppeteer-extra": "^3.3.4",
     "puppeteer-extra-plugin-stealth": "^2.11.1"
